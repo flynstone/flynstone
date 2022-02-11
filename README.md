@@ -8,8 +8,7 @@
 
 - My first learned programming language was C# Asp.Net Core with MSSQL.
 - In C# have worked with windows forms, console app, WPF, Razor Forms and Asp.Net Core Web Api
-- I have a collection of programming textbooks (mosty C#, but also SQL, and a few on Angular.
-- I have experience with Angular, CSS, SCSS, HTML, Jquery, Ajax.
+- I have experience with Angular, CSS, SCSS, HTML, Jquery, React
 
 ## Projects
 
