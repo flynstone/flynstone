@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 
 - My first learned programming language was C# Asp.Net Core with MSSQL.
-- In C# have worked with windows forms, console app, WPF, Razor Forms and Asp.Net Core Web Api
+- In C# have worked with windows forms, console app, WPF, Razor Pages and Asp.Net Core Web Api
 - I have experience with Angular, CSS, SCSS, HTML, Jquery, React, SQL (MSSQL, Sqlite, PostgresSQL, MySQL, Firebase)
 
 ## Projects
