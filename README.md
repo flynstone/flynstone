@@ -8,14 +8,14 @@
 
 - My first learned programming language was C# Asp.Net Core with MSSQL.
 - In C# have worked with windows forms, console app, WPF, Razor Forms and Asp.Net Core Web Api
-- I have experience with Angular, CSS, SCSS, HTML, Jquery, React
+- I have experience with Angular, CSS, SCSS, HTML, Jquery, React, SQL (MSSQL, Sqlite, PostgresSQL, MySQL, Firebase)
 
 ## Projects
 
-- PSQL => https://github.com/flynstone/LightBnB && https://github.com/flynstone/BootcampX
 - EJS => https://github.com/flynstone/tinyapp
 - Node, Express back-end => https://github.com/flynstone/tweeter
 - Vanilla Javascript (Crud with no backend) => https://github.com/flynstone/Comp266
 - Javascript => https://github.com/flynstone/lotide
 
-- Full Stack App (Asp.Net Core 5 Web Api with Angular 12) => https://github.com/flynstone/XCore (Rebuilding Front-End)
+- Full Stack App (Asp.Net Core 5 Web Api with Angular 12) => https://github.com/flynstone/XCore (Rebuilding Front-End) 
+- Full Stack App (Asp.Net Core 6 Web Api with React)
