@@ -8,7 +8,7 @@
 
 - First programming language learned => C# Asp.Net Core with MSSQL.
 - In C# have worked with windows forms, console app, WPF, Razor Pages and Asp.Net Core Web Api
-- I have experience with Angular, CSS, SCSS, HTML, Jquery, React, SQL (MSSQL, Sqlite, PostgresSQL, MySQL, Firebase), I have some experience deploying/hosting app on IIS with Windows Server 2019. I had used a Windows Server Essentials VM with Hyper-V as VM host, but I have also worked with VMware and Virtual Box. I have experience with linux (WSL2), Currently rebuilding https://x-coreweb.com using linux subsystem.
+- I have experience with Angular, CSS, SCSS, HTML, Jquery, React, SQL (MSSQL, Sqlite, PostgresSQL, MySQL, Firebase), I have some experience deploying/hosting app on IIS with Windows Server 2019. I had used a Windows Server Essentials VM with Hyper-V as VM host, but I have also worked with VMware and Virtual Box. Currently rebuilding https://x-coreweb.com.
 
 ## Projects
 
