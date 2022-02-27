@@ -2,7 +2,6 @@
 
 - I recently decided to change career. I was a production supervisor in a steel meltshop for the last 6 years and previously a production employee for 2 years prior.
 
-- 🌱 I’m currently learning Javascript with Lighthouse Labs Web Development Bootcamp
 - 📫 How to reach me: flynstone89@gmail.com
 - 😄 Pronouns: He/Him
 
