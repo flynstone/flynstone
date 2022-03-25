@@ -17,4 +17,4 @@
 - Javascript => https://github.com/flynstone/lotide
 
 - Full Stack App (Asp.Net Core 5 Web Api with Angular 12) => https://github.com/flynstone/XCore (Rebuilding Front-End) 
-- Full Stack App (Asp.Net Core 6 Web Api with React)
+- Full Stack App (Asp.Net Core 5 Web Api with React) => https://github.com/flynstone/CSharpReact (Still under developement) 
