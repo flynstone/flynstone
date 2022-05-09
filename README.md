@@ -5,16 +5,15 @@
 - 📫 How to reach me: flynstone89@gmail.com
 - 😄 Pronouns: He/Him
 
-- First programming language learned => C# Asp.Net Core with MSSQL.
+- Prefered back-end C# Asp.Net Core.
 - In C# have worked with windows forms, console app, WPF, Razor Pages and Asp.Net Core Web Api
-- I have experience with Angular, CSS, SCSS, HTML, Jquery, React, SQL (MSSQL, Sqlite, PostgresSQL, MySQL, Firebase), I have some experience deploying/hosting app on IIS with Windows Server 2019. Currently rebuilding https://x-coreweb.com.
+- I have experience with Angular, CSS, SCSS, HTML, Jquery, React, SQL (MSSQL, Sqlite, PostgresSQL, MySQL, Firebase).
 
 ## Projects
 
 - EJS => https://github.com/flynstone/tinyapp
 - Node, Express back-end => https://github.com/flynstone/tweeter
-- Vanilla Javascript (Crud with no backend) => https://github.com/flynstone/Comp266
 - Javascript => https://github.com/flynstone/lotide
 
 - Full Stack App (Asp.Net Core 5 Web Api with Angular 12) => https://github.com/flynstone/XCore (Rebuilding Front-End) 
-- Full Stack App (Asp.Net Core 5 Web Api with React) => https://github.com/flynstone/CSharpReact (Still under developement) 
+- Full Stack App (Asp.Net Core 5 Web Api with React) => https://github.com/flynstone/CSharpReact
