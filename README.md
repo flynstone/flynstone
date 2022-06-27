@@ -13,7 +13,7 @@
 - Node, Express back-end => https://github.com/flynstone/tweeter
 - Javascript => https://github.com/flynstone/lotide
 
-- Full Stack App (Asp.Net Core 5 Web Api with Angular 12) => https://github.com/flynstone/XCore (Rebuilding Front-End) 
+- Full Stack App (Asp.Net Core 6 Web Api with Angular 12) => https://github.com/flynstone/DatingApp
 
 - Full Stack App (Asp.Net Core 5 Web Api and React, using Material UI and Mobx) => https://github.com/flynstone/CSharpReact
 
