@@ -5,7 +5,7 @@
 
 - Back-End -> C# Asp.Net Core (since Asp.Net Core 2.0).
 - In C# have worked with windows forms, console app, WPF, Razor Pages and Asp.Net Core Web Api.
-- I have experience with Angular, CSS, SCSS, HTML, Jquery, React, SQL (MSSQL, Sqlite, PostgresSQL, MySQL, Firebase).
+- I have experience with Angular, CSS, SCSS, HTML, Jquery, React, SQL
 
 ## Projects
 
